@@ -161,13 +161,11 @@
 
         <!-- Bagian Identitas Kelompok 8 -->
         <div class="neu-card identitas">
-            <h2>Tugas Akhir Semester 3</h2>
-            <p>Pelajaran: <strong>Matematika</strong></p>
-            <p>Materi: <strong>Anuitas</strong></p>
-            <p>Kelas: <strong>XI-5</strong></p>
-            <p>Guru Pembimbing: <strong>Dewi Lestari, S.Pd.</strong></p>
+            <h2>Tugas Akhir Anuitas Kelompok 8</h2>
+            <p><strong>Matematika Anuitas</strong></p>
+            <p>Kelas: <strong>XI-3</strong></p>
             <br>
-            <p><strong>Anggota Kelompok 8:</strong></p>
+            <p><strong>Anggota:</strong></p>
             <ul>
                 <li>Almira Yudhantara Sasmita</li>
                 <li>Ghani Khadyan Khairi</li>
